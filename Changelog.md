@@ -38,4 +38,4 @@ establishes the site's background, base color, and contemporary font.
  applies shadows, borders, and space to contact cards, images, and information lists.  adds an explanation, a "Get Directions" button with a hover effect, and makes the map responsive.  Form fields with margins and padding for readability and spacing. Buttons and textareas with hover effects, rounded corners, and padding.
 
 Bug or errors
-Run my website stated to debug it and had bugs and errors on the code  for html and css 
+Run my website stated to debug it and had bugs and errors on the code  for html and css.
